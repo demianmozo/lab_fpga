@@ -29,7 +29,7 @@
 (DELAYFILE
   (SDFVERSION "2.1")
   (DESIGN "ej_a")
-  (DATE "10/21/2024 16:32:19")
+  (DATE "10/21/2024 21:34:45")
   (VENDOR "Altera")
   (PROGRAM "Quartus II 64-Bit")
   (VERSION "Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition")
@@ -41,26 +41,8 @@
     (INSTANCE LED\~output)
     (DELAY
       (ABSOLUTE
-        (PORT i (360:360:360) (336:336:336))
-        (IOPATH i o (2209:2209:2209) (2199:2199:2199))
-      )
-    )
-  )
-  (CELL
-    (CELLTYPE "cycloneiii_io_ibuf")
-    (INSTANCE SW2\~input)
-    (DELAY
-      (ABSOLUTE
-        (IOPATH i o (779:779:779) (884:884:884))
-      )
-    )
-  )
-  (CELL
-    (CELLTYPE "cycloneiii_io_ibuf")
-    (INSTANCE SW3\~input)
-    (DELAY
-      (ABSOLUTE
-        (IOPATH i o (769:769:769) (874:874:874))
+        (PORT i (1096:1096:1096) (946:946:946))
+        (IOPATH i o (2169:2169:2169) (2142:2142:2142))
       )
     )
   )
@@ -74,15 +56,33 @@
     )
   )
   (CELL
+    (CELLTYPE "cycloneiii_io_ibuf")
+    (INSTANCE SW3\~input)
+    (DELAY
+      (ABSOLUTE
+        (IOPATH i o (806:806:806) (913:913:913))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneiii_io_ibuf")
+    (INSTANCE SW2\~input)
+    (DELAY
+      (ABSOLUTE
+        (IOPATH i o (766:766:766) (873:873:873))
+      )
+    )
+  )
+  (CELL
     (CELLTYPE "cycloneiii_lcell_comb")
     (INSTANCE LED\~0)
     (DELAY
       (ABSOLUTE
-        (PORT dataa (2427:2427:2427) (2606:2606:2606))
-        (PORT datab (2421:2421:2421) (2601:2601:2601))
-        (PORT datad (2652:2652:2652) (2836:2836:2836))
-        (IOPATH dataa combout (380:380:380) (360:360:360))
-        (IOPATH datab combout (381:381:381) (361:361:361))
+        (PORT dataa (3149:3149:3149) (3335:3335:3335))
+        (PORT datac (2631:2631:2631) (2812:2812:2812))
+        (PORT datad (2999:2999:2999) (3164:3164:3164))
+        (IOPATH dataa combout (380:380:380) (377:377:377))
+        (IOPATH datac combout (265:265:265) (251:251:251))
         (IOPATH datad combout (144:144:144) (125:125:125))
       )
     )

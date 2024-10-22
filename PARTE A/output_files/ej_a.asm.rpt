@@ -1,5 +1,5 @@
 Assembler report for ej_a
-Mon Oct 21 15:43:03 2024
+Mon Oct 21 21:34:41 2024
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -10,7 +10,7 @@ Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edit
   2. Assembler Summary
   3. Assembler Settings
   4. Assembler Generated Files
-  5. Assembler Device Options: C:/Users/usuario/Desktop/LAB FPGA/PARTE A/output_files/ej_a.sof
+  5. Assembler Device Options: C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/output_files/ej_a.sof
   6. Assembler Messages
 
 
@@ -37,7 +37,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Mon Oct 21 15:43:03 2024 ;
+; Assembler Status      ; Successful - Mon Oct 21 21:34:41 2024 ;
 ; Revision Name         ; ej_a                                  ;
 ; Top-level Entity Name ; ej_a                                  ;
 ; Family                ; Cyclone III                           ;
@@ -77,24 +77,24 @@ applicable agreement for further details.
 +-----------------------------------------------------------------------------+----------+---------------+
 
 
-+-----------------------------------------------------------------+
-; Assembler Generated Files                                       ;
-+-----------------------------------------------------------------+
-; File Name                                                       ;
-+-----------------------------------------------------------------+
-; C:/Users/usuario/Desktop/LAB FPGA/PARTE A/output_files/ej_a.sof ;
-+-----------------------------------------------------------------+
++---------------------------------------------------------------------------+
+; Assembler Generated Files                                                 ;
++---------------------------------------------------------------------------+
+; File Name                                                                 ;
++---------------------------------------------------------------------------+
+; C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/output_files/ej_a.sof ;
++---------------------------------------------------------------------------+
 
 
-+-------------------------------------------------------------------------------------------+
-; Assembler Device Options: C:/Users/usuario/Desktop/LAB FPGA/PARTE A/output_files/ej_a.sof ;
-+----------------+--------------------------------------------------------------------------+
-; Option         ; Setting                                                                  ;
-+----------------+--------------------------------------------------------------------------+
-; Device         ; EP3C120F780C7                                                            ;
-; JTAG usercode  ; 0x00562A5F                                                               ;
-; Checksum       ; 0x00562A5F                                                               ;
-+----------------+--------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------+
+; Assembler Device Options: C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/output_files/ej_a.sof ;
++----------------+------------------------------------------------------------------------------------+
+; Option         ; Setting                                                                            ;
++----------------+------------------------------------------------------------------------------------+
+; Device         ; EP3C120F780C7                                                                      ;
+; JTAG usercode  ; 0x00562A0D                                                                         ;
+; Checksum       ; 0x00562A0D                                                                         ;
++----------------+------------------------------------------------------------------------------------+
 
 
 +--------------------+
@@ -103,14 +103,14 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Assembler
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Mon Oct 21 15:42:54 2024
+    Info: Processing started: Mon Oct 21 21:34:38 2024
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off ej_a -c ej_a
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus II 64-Bit Assembler was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 4546 megabytes
-    Info: Processing ended: Mon Oct 21 15:43:03 2024
-    Info: Elapsed time: 00:00:09
-    Info: Total CPU time (on all processors): 00:00:08
+    Info: Peak virtual memory: 4551 megabytes
+    Info: Processing ended: Mon Oct 21 21:34:41 2024
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:02
 
 
