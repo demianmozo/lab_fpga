@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\monig\OneDrive\Escritorio\lab_fpga\PARTE A\simulation\modelsim
+Eej_a
+Z1 w1729553213
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\monig\OneDrive\Escritorio\lab_fpga\PARTE A\simulation\modelsim
+Z5 8C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/ej_a.vhd
+Z6 FC:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/ej_a.vhd
+l0
+L4
+Vhk:k:zKKg_l61MoBiUB:g3
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1729686175.069000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/ej_a.vhd|
+Z10 !s107 C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/ej_a.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 nO=T@>16Ok8a@hzZVHG4h0
+!i10b 1
+Abehavioral
+R2
+R3
+DEx4 work 4 ej_a 0 22 hk:k:zKKg_l61MoBiUB:g3
+l13
+L11
+VnYzO]SUlaF?92<7CQQY3J0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 jod12kDX567KeGgTj?:Z@1
+!i10b 1
+Etestbench_ej_a
+Z13 w1729685989
+R2
+R3
+R4
+Z14 8C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/testbench_ej_a.vhd
+Z15 FC:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/testbench_ej_a.vhd
+l0
+L4
+V_A=SFVjjaDzC38FHNK:Ln3
+!s100 ;Y7BVgbGZhef2oG<DK5390
+R7
+31
+!i10b 1
+Z16 !s108 1729686175.256000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/testbench_ej_a.vhd|
+Z18 !s107 C:/Users/monig/OneDrive/Escritorio/lab_fpga/PARTE A/testbench_ej_a.vhd|
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 14 testbench_ej_a 0 22 _A=SFVjjaDzC38FHNK:Ln3
+l25
+L7
+V]YNOP8nRemVVj5HSoZFGJ2
+!s100 cGCm<3lkQ6f12UQOXcW<F1
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
